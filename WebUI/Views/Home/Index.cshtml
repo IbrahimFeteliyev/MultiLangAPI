@@ -1,0 +1,12 @@
+﻿@using WebUI.ViewModel
+@model HomeVM
+
+<div class="row">
+    @foreach (var item in Model.CategoryFeatureds)
+    {
+    <div class="col-lg-4">
+        @item.CategoryName
+    </div>
+    }
+</div>
+
