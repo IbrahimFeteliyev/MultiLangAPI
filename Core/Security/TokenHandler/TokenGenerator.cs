@@ -5,7 +5,6 @@
 //using System.Security.Claims;
 //using System.Text;
 //using System.Threading.Tasks;
-//using Core.Entity.Models;
 //using Core.Security.Models;
 //using Microsoft.IdentityModel.Tokens;
 
@@ -39,7 +38,7 @@
 //                Audience = "Compar Academy",
 //                Issuer = "Compar Academy"
 //            };
-            
+
 //            var token = jwtTokenHandler.CreateToken(tokenDescription);
 //            return jwtTokenHandler.WriteToken(token);
 //        }
