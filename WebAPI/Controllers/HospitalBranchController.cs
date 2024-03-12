@@ -42,5 +42,28 @@ namespace WebAPI.Controllers
 
         }
 
+        [HttpGet("GetHospitalBranchById/{id}")]
+        public IActionResult GetShortInfoById(int id)
+        {
+            var result = _hospitalBranchService.GetHospitalBranchById(id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+
+        }
+
+        [HttpDelete("RemoveHospitalBranchById/{id}")]
+        public IActionResult RemoveHospitalBranchById(int id)
+        {
+            var result = _hospitalBranchService.RemoveHospitalBranch(id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
     }
 }

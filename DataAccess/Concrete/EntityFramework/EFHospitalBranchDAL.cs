@@ -4,6 +4,8 @@ using DataAccess.Abstarct;
 using Entities.Concrete;
 using Entities.DTOs.CategoryDTOs;
 using Entities.DTOs.HospitalBranchDTOs;
+using Entities.DTOs.ShortInfoDTOs;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -109,6 +111,35 @@ namespace DataAccess.Concrete.EntityFramework
                 }).ToList()
             }).ToList();
 
+            return result;
+        }
+
+        public HospitalBranchDetailDTO GetHospitalBranchByIdAdmin(int id)
+        {
+            using var context = new AppDbContext();
+
+            var result = context.HospitalBranchs
+                .Include(x => x.HospitalBranchLanguages)
+                .Include(x => x.HospitalBranchFeatures)
+                .Include(x => x.HospitalBranchPhotos)
+                .Select(x => new HospitalBranchDetailDTO()
+                {
+                    Id = x.Id,
+                    CoverPhoto = x.CoverPhoto,
+                    UpdatedDate = x.UpdatedDate,
+                    CreatedDate = x.CreatedDate,
+                    BranchName = x.HospitalBranchLanguages.Select(x => x.BranchName).ToList(),
+                    HospitalName = x.HospitalBranchLanguages.Select(x => x.HospitalName).ToList(),
+                    Description = x.HospitalBranchLanguages.Select(x => x.Description).ToList(),
+                    PhotoUrl = x.HospitalBranchPhotos.Select(x => x.PhotoUrl).ToList(),
+                    Features = x.HospitalBranchFeatures.Select(f => new HospitalBranchFeatureListDTO
+                    {
+                        Number = f.Number,
+                        FeatureDescription = f.HospitalBranchFeatureLanguages.Select(l => l.Description).ToList(),
+                        FeaturePhotoUrl = f.PhotoUrl
+                    }).ToList()
+                })
+                .FirstOrDefault(x => x.Id == id);
             return result;
         }
     }

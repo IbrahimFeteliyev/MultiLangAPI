@@ -125,6 +125,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebAPI.Controllers.HospitalBranchController",
+    "Method": "GetShortInfoById",
+    "RelativePath": "api/HospitalBranch/GetHospitalBranchById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.HospitalBranchController",
+    "Method": "RemoveHospitalBranchById",
+    "RelativePath": "api/HospitalBranch/RemoveHospitalBranchById/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebAPI.Controllers.ShortInfoController",
     "Method": "GetShortInfos",
     "RelativePath": "api/ShortInfo",

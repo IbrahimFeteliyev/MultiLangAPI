@@ -7,6 +7,7 @@ using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using Entities.DTOs.CategoryDTOs;
 using Entities.DTOs.HospitalBranchDTOs;
+using Entities.DTOs.ShortInfoDTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,7 +38,6 @@ namespace Business.Concrete
                 return new ErrorResult();
             }
         }
-
         public IDataResult<List<HospitalBranchListDTO>> GetAllHospitalBranchs(string langCode)
         {
             try
@@ -49,6 +49,18 @@ namespace Business.Concrete
             {
                 return new ErrorDataResult<List<HospitalBranchListDTO>>(ex.Message);
             }
+        }
+
+        public IDataResult<HospitalBranchDetailDTO> GetHospitalBranchById(int id)
+        {
+            var result = _hospitalBranchDAL.GetHospitalBranchByIdAdmin(id);
+            return new SuccessDataResult<HospitalBranchDetailDTO>(result);
+        }
+        public IResult RemoveHospitalBranch(int id)
+        {
+            var hospitalBranch = _hospitalBranchDAL.Get(x => x.Id == id);
+            _hospitalBranchDAL.Delete(hospitalBranch);
+            return new SuccessResult("Deleted Successfully");
         }
     }
 }

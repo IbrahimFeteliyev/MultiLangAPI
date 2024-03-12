@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\usercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|solutionrelative:business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|solutionrelative:business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\shortinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\shortinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|solutionrelative:business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\business\\concrete\\shortinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|solutionrelative:business\\concrete\\shortinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB808A-7FEF-4DC9-BC74-7A61F32AB417}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\business\\abstarct\\ishortinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636961AE-28B2-4D79-90EF-E8E8FE7EEB42}|Business\\Business.csproj|solutionrelative:business\\abstarct\\ishortinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\dataaccess\\abstarct\\ishortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstarct\\ishortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\dataaccess\\abstarct\\ihospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstarct\\ihospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\concrete\\categorylanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\categorylanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\dataaccess\\concrete\\entityframework\\efshortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456E1CAE-D4BB-4BCB-88C4-3ACC3EE4AB00}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efshortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\concrete\\shortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\shortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\apitest-master\\apitest-master\\entities\\concrete\\shortinfolanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5F0409-D76F-4BFE-955F-C6BE50C1C3DD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\shortinfolanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,140 +62,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserContoller.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\UserContoller.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserContoller.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\UserContoller.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\UserContoller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "DocumentIndex": 9,
+              "Title": "EFHospitalBranchDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwH8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:52.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T07:34:48.296Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\DoctorManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\DoctorManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\DoctorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:06:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShortInfoManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\ShortInfoManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ShortInfoManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\ShortInfoManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ShortInfoManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:06:06.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShortInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Abstarct\\IShortInfoService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstarct\\IShortInfoService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Abstarct\\IShortInfoService.cs",
+              "RelativeToolTip": "Business\\Abstarct\\IShortInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:05:40.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IHospitalBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Abstarct\\IHospitalBranchService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstarct\\IHospitalBranchService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Abstarct\\IHospitalBranchService.cs",
+              "RelativeToolTip": "Business\\Abstarct\\IHospitalBranchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:50.093Z"
+              "WhenOpened": "2024-03-12T08:05:37.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ShortInfoController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\ShortInfoController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ShortInfoController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\ShortInfoController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\ShortInfoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:48.949Z"
+              "WhenOpened": "2024-03-12T07:47:27.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "HospitalBranchManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\HospitalBranchManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\HospitalBranchManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwDUAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:48.045Z"
+              "WhenOpened": "2024-03-12T07:46:55.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "HospitalBranchController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\HospitalBranchController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\HospitalBranchController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwD8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:47.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\WebAPI\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:29:45.34Z"
+              "WhenOpened": "2024-03-12T07:47:37.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\Category.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Title": "IShortInfoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Abstarct\\IShortInfoDAL.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstarct\\IShortInfoDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Abstarct\\IShortInfoDAL.cs",
+              "RelativeToolTip": "DataAccess\\Abstarct\\IShortInfoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:21:01.171Z"
+              "WhenOpened": "2024-03-12T08:05:26.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategoryLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\CategoryLanguage.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\CategoryLanguage.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\CategoryLanguage.cs",
-              "RelativeToolTip": "Entities\\Concrete\\CategoryLanguage.cs",
+              "Title": "IHospitalBranchDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
+              "RelativeToolTip": "DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:20:59.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\Doctor.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Doctor.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\Doctor.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:20:45.326Z"
+              "WhenOpened": "2024-03-12T08:05:22.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "Entities\\DTOs\\LoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EFShortInfoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:20:55.631Z"
+              "WhenOpened": "2024-03-12T07:37:59.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADgvx0AAAArAAAA",
+              "DocumentIndex": 11,
+              "Title": "ShortInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\ShortInfo.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\ShortInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\ShortInfo.cs",
+              "RelativeToolTip": "Entities\\Concrete\\ShortInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T05:59:37.827Z"
+              "WhenOpened": "2024-03-12T07:37:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShortInfoLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\ShortInfoLanguage.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\ShortInfoLanguage.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\ApiTest-master\\ApiTest-master\\Entities\\Concrete\\ShortInfoLanguage.cs",
+              "RelativeToolTip": "Entities\\Concrete\\ShortInfoLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:37:53.971Z"
             }
           ]
         }
